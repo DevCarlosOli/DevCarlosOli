@@ -1,7 +1,7 @@
 ### Oi! 👋
 ## &nbsp; &nbsp; &nbsp; Eu sou Carlos Oliveira! 😁
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seja bem-vindo a página do meu GitHub!
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Liiink Start!
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Link Start!
 <br>
 <br>
 
