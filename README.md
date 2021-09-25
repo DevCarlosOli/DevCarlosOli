@@ -6,6 +6,7 @@
 <br>
 
 - 🔭 I’m currently working with packaging design for flexography 📦
+- ↪  Recent patch change for systems developer area 💻
 - 🌱 I'm currently learning csharp language and entity framework .net 💻
 
 <br>
