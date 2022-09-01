@@ -5,15 +5,13 @@
 <br>
 <br>
 
-- 🔭 I’m currently working with packaging design for flexography 📦
-- ↪  Recent patch change for systems developer area 💻
-- 🌱 I'm currently learning csharp language and entity framework .net 💻
+- 🔭 I currently work as a systems analyst 💻
 
 <br>
 <br>
  <div>
   <a href="https://github.com/DevCarlosOli"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevCarlosOli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevCarlosOli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosOli&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
