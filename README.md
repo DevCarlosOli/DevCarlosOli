@@ -15,6 +15,7 @@
   <a href="https://github.com/DevCarlosOli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevCarlosOli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosOli&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="165em" src="https://giffiles.alphacoders.com/131/131868.gif"/>
 </div>
 
 <div style="display: inline_block"><br>
