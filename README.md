@@ -5,7 +5,7 @@
 <br />
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=BD27F7&width=600&height=60&lines=FullStack+Developer+and+Graphic+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=BD27F7&width=435&height=60&lines=I'm+FullStack+Developer)](https://git.io/typing-svg)
 
 - 🔭 I currently work as a systems analyst 💻
 
