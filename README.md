@@ -2,8 +2,8 @@
 ## &nbsp; &nbsp; &nbsp; Eu sou Carlos Oliveira! 😁
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seja bem-vindo a página do meu GitHub!
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Link Start!*
-<br>
-<br>
+<br />
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=BD27F7&width=600&height=60&lines=FullStack+Developer+and+Graphic+Design)](https://git.io/typing-svg)
 
@@ -42,3 +42,10 @@ src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <a href = "mailto:c.oliveiradev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-r-de-oliveira-filho-62a996200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+<br />
+<br />
+ <div align="center">
+   
+  ![](https://komarev.com/ghpvc/?username=DevCarlosOli&color=A21CE0)
+  
+  </div>
