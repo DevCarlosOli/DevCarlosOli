@@ -1,13 +1,14 @@
-### Oi! 👋
-## &nbsp; &nbsp; &nbsp; Eu sou Carlos Oliveira! 😁
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seja bem-vindo a página do meu GitHub!
+### Hi! 👋
+## &nbsp; &nbsp; &nbsp; I am Carlos Oliveira! 😁
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Welcome in my Github Page!
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Link Start!*
 <br />
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=BD27F7&width=435&height=60&lines=I'm+FullStack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=00BFFF&width=435&height=60&lines=I'm+Back-End+Developer)](https://git.io/typing-svg)
 
 - 🔭 I currently work as a systems analyst 💻
+- 🔭 I currently study data analyst 📊
 
 <br>
 <br>
