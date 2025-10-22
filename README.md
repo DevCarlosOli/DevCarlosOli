@@ -31,6 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark
   <img align="center" alt="Carlos-MicrosoftSqlServer" height="50" width="60" 
 src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="Carlos-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+ <img align="center" alt="Carlos-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img height="160em" align="right" alt="Kirito-SAO" src="https://media.giphy.com/media/81wJ9DZneVUBO/giphy.gif">
 </div>
   
