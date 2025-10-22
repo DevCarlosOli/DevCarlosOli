@@ -7,8 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&pause=1000&color=00BFFF&width=435&height=60&lines=I'm+Back-End+Developer)](https://git.io/typing-svg)
 
-- 🔭 I currently work as a systems analyst 💻
-- 🔭 I currently study data analyst 📊
+- 🔭 I currently work as a backend developer 💻
 
 <br>
 <br>
